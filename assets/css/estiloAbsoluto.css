@@ -1,0 +1,28 @@
+.cajasAbsolutas{
+    position: absolute;
+}
+#caja1{
+    top: 0px;
+    left: 0px;
+    padding-left: 25px;
+}
+#caja2{
+    left: 204px;
+}
+#caja3{
+    left: 408px;
+}
+#caja4{
+    top: 204px;
+    width: 608px;
+}
+#cajaPrincipal{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+#tabla{
+    position: absolute;
+    top: 408px;
+    left: 204px;
+}

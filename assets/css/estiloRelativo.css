@@ -1,0 +1,24 @@
+.cajasRelativas{
+    position: relative;
+}
+#caja1{
+    top: 0px;
+    left: 0px;
+}
+#caja2{
+    top: -204px;
+    left: 204px;
+}
+#caja3{
+    top: -408px;
+    left: 408px;
+}
+#caja4{
+    top: -408px;
+    width: 608px;
+}
+#cajaPrincipal{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
